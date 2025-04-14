@@ -33,8 +33,8 @@ webdriver-manager
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/1337-auto-checkin.git
-cd 1337-auto-checkin
+git clone https://github.com/xurb1a/1337-auto-Checkin-Bot.git
+cd 1337-auto-Checkin-Bot
 ```
 
 2. Run the script:
@@ -65,9 +65,3 @@ We are **not affiliated with 1337.ma** or 42 Network.
 - Add GUI or config file support
 - Telegram/Discord notifications on successful check-in
 - Support for multiple accounts
-
----
-
-## 📄 License
-
-MIT License
