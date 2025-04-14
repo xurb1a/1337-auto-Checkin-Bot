@@ -40,7 +40,7 @@ cd 1337-auto-checkin
 2. Run the script:
 
 ```bash
-python checkin.py
+python main.py
 ```
 
 3. Enter your email and password when prompted (or hardcode them in the script if preferred).
